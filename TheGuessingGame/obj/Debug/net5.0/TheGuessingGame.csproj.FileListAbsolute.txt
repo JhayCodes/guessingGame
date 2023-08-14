@@ -1,0 +1,16 @@
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\TheGuessingGame.exe
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\TheGuessingGame.deps.json
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\TheGuessingGame.runtimeconfig.json
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\TheGuessingGame.runtimeconfig.dev.json
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\TheGuessingGame.dll
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\ref\TheGuessingGame.dll
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\bin\Debug\net5.0\TheGuessingGame.pdb
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.csproj.AssemblyReference.cache
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.AssemblyInfoInputs.cache
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.AssemblyInfo.cs
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.dll
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\ref\TheGuessingGame.dll
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.pdb
+C:\Users\jayuc\Desktop\Program practice\c#\TheGuessingGame\TheGuessingGame\obj\Debug\net5.0\TheGuessingGame.genruntimeconfig.cache
